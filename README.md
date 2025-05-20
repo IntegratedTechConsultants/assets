@@ -1,8 +1,6 @@
 ## Integrated Tech Consultants Branding Summary
 
-<!-- Coolors Palette Widget -->
-<script src="https://coolors.co/palette-widget/widget.js"></script>
-<script data-id="09759579050509295">new CoolorsPaletteWidget("09759579050509295", ["f15a29","21201e","b4afa5","fcfcfc","121212"]); </script>
+![Coolors Palette](assets/ITC Colors.svg)
 
 **Logo Color Palette**
 
@@ -13,8 +11,9 @@ The Integrated Tech Consultants logo features a modern, geometric design with th
 | Giants Orange   | #f15a29   | (241, 90, 41)     | Used for the right diagonal  |
 | Eerie Black     | #21201e   | (33, 32, 30)      | Used for the left diagonal   |
 | Silver          | #b4afa5   | (180, 175, 165)   | Used for the base rectangle  |
-| White           | #fcfcfc   | (252, 252, 252)   | Light Mode Background        |
-| Night           | #121212   | (18, 18, 18)      | Dark Mode Background         |
+| White           | #fcfcfc   | (252, 252, 252)   | Background                   |
+| Night           | #121212   | (18, 18, 18)      | Dark Background |
+
 
 ---
 
@@ -81,8 +80,8 @@ $gradient-radial: radial-gradient(#f15a29ff, #21201eff, #b4afa5ff, #fcfcfcff, #1
 
   | Font Name        | Type        | Usage Recommendation             |
   |------------------|-------------|----------------------------------|
-  | Raleway          | Sans-serif  | Subheadings, highlights[7]       |
-  | Source Sans Pro  | Sans-serif  | Body text, captions[8]           |
+  | Raleway          | Sans-serif  | Subheadings, highlights    |
+  | Source Sans Pro  | Sans-serif  | Body text, captions          |
 
   These fonts are chosen for their geometric simplicity and harmonious pairing with Montserrat, ensuring a cohesive and professional visual identity.
 
