@@ -1,19 +1,16 @@
 ## Integrated Tech Consultants Branding Summary
 
-![Coolors Palette](https://raw.githubusercontent.com/itc-in/assets/refs/heads/main/images/ITC%20Colors.svg)
-
 **Logo Color Palette**
 
-The Integrated Tech Consultants logo features a modern, geometric design with three primary colors. Below are the identified colors with their corresponding codes:
+The Integrated Tech Consultants logo features a modern, geometric design with three primary colors. Below are the identified colors with their corresponding codes and cat images:
 
-| Color Name      | Hex Code  | RGB Value         | Description                  |
-|-----------------|-----------|-------------------|------------------------------|
-| Giants Orange   | #f15a29   | (241, 90, 41)     | Used for the right diagonal  |
-| Eerie Black     | #21201e   | (33, 32, 30)      | Used for the left diagonal   |
-| Silver          | #b4afa5   | (180, 175, 165)   | Used for the base rectangle  |
-| White           | #fcfcfc   | (252, 252, 252)   | Background                   |
-| Night           | #121212   | (18, 18, 18)      | Dark Background |
-
+| Color Preview | Color Name | Hex Code | RGB Value | Description |
+|---------------|------------|----------|-----------|-------------|
+| <img src="https://raw.githubusercontent.com/itc-in/assets/refs/heads/main/images/smudge/smudge_giantsorange.svg" width="96" height="96" alt="Giants Orange Cat"> | Giants Orange | #f15a29 | (241, 90, 41) | Used for the right diagonal |
+| <img src="https://raw.githubusercontent.com/itc-in/assets/refs/heads/main/images/smudge/smudge_eerieblack.svg" width="96" height="96" alt="Eerie Black Cat"> | Eerie Black | #21201e | (33, 32, 30) | Used for the left diagonal |
+| <img src="https://raw.githubusercontent.com/itc-in/assets/refs/heads/main/images/smudge/smudge_silver.svg" width="96" height="96" alt="Silver Cat"> | Silver | #b4afa5 | (180, 175, 165) | Used for the base rectangle |
+| <img src="https://raw.githubusercontent.com/itc-in/assets/refs/heads/main/images/smudge/smudge_white.svg" width="96" height="96" alt="White Cat"> | White | #fcfcfc | (252, 252, 252) | Background |
+| <img src="https://raw.githubusercontent.com/itc-in/assets/refs/heads/main/images/smudge/smudge_night.svg" width="96" height="96" alt="Night Cat"> | Night | #121212 | (18, 18, 18) | Dark Background |
 
 ---
 
@@ -66,6 +63,8 @@ $gradient-top-left: linear-gradient(225deg, #f15a29ff, #21201eff, #b4afa5ff, #fc
 $gradient-bottom-left: linear-gradient(315deg, #f15a29ff, #21201eff, #b4afa5ff, #fcfcfcff, #121212ff);
 $gradient-radial: radial-gradient(#f15a29ff, #21201eff, #b4afa5ff, #fcfcfcff, #121212ff);
 ```
+
+![Coolors Palette](https://raw.githubusercontent.com/itc-in/assets/refs/heads/main/images/ITC%20Colors.svg)
 
 ---
 
