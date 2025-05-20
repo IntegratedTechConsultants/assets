@@ -1,6 +1,6 @@
 ## Integrated Tech Consultants Branding Summary
 
-![Coolors Palette](assets/ITC Colors.svg)
+![Coolors Palette](https://raw.githubusercontent.com/itc-in/assets/refs/heads/main/images/ITC%20Colors.svg)
 
 **Logo Color Palette**
 
